@@ -1,2 +1,12 @@
 # discrete-math-practise
-Решение практических задач по дискретной математике
+Решение расчетно-графических и практических задач по дискретной математике
+
+### Расчетно-графические работы
+- [РГР 1](https://github.com/verdex4/discrete-math-practise/blob/main/RGR/rgr_1.ipynb): Операции над булевыми матрицами
+- [РГР 2](https://github.com/verdex4/discrete-math-practise/blob/main/RGR/rgr_2.ipynb): Реализация топологической сортировки
+- [РГР 3](https://github.com/verdex4/discrete-math-practise/blob/main/RGR/rgr_3.ipynb): Таблица Кэли для поворотов шестиугольника
+
+### Практические задачи
+- [Практика 1](https://github.com/verdex4/discrete-math-practise/blob/main/Practises/practise_1.ipynb): Проверка наличия свойств у бинарных отношений
+- [Практика 2](https://github.com/verdex4/discrete-math-practise/blob/main/Practises/practise_2.ipynb): Построение диаграммы Хассе для делителей натурального числа n
+- [Практика 3](https://github.com/verdex4/discrete-math-practise/blob/main/Practises/practise_3.ipynb): Поиск НОД по алгоритму Евклида и НОК
